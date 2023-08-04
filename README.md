@@ -8,6 +8,7 @@ Here are some of my projects:
 - [Root Activity Launcher](https://github.com/zacharee/RootActivityLauncher)
 - [Bifrost](https://github.com/zacharee/SamloaderKotlin)
 - [Lockscreen Widgets](https://github.com/zacharee/LockscreenWidgets)
+- [HINT Control](https://github.com/zacharee/ArcadyanKVD21Control)
 
 Check out my [repositories](https://github.com/zacharee?tab=repositories) tab for everything.
 
